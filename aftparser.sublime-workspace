@@ -1,0 +1,1683 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"preg",
+				"preg_split"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"preg_re",
+				"preg_replace"
+			],
+			[
+				"hos",
+				"host_img"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"orde",
+				"order"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"whi",
+				"white_popup"
+			],
+			[
+				"err",
+				"errmsg"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"bra",
+				"break"
+			],
+			[
+				"strip",
+				"strip_data"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"selectors",
+				"selectors"
+			],
+			[
+				"se",
+				"selectors"
+			],
+			[
+				"htmlenti",
+				"html_entity_decode"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"strips",
+				"stripslashes"
+			],
+			[
+				"aler",
+				"alert(message)\tWindow"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"new",
+				"new_meta"
+			],
+			[
+				"mah",
+				"matches"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"rawurl",
+				"rawurlencode"
+			],
+			[
+				"raw",
+				"rawurlencode"
+			],
+			[
+				"delete_",
+				"delete_option"
+			],
+			[
+				"parse",
+				"parser"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"w",
+				"w_i"
+			],
+			[
+				"me",
+				"media_folder"
+			],
+			[
+				"min_",
+				"min_w"
+			],
+			[
+				"up",
+				"update_d"
+			],
+			[
+				"min",
+				"min_h"
+			],
+			[
+				"glo",
+				"glob"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"key",
+				"keypress\t.keypress()"
+			],
+			[
+				"ke",
+				"keydown\t.keydown()"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"ex",
+				"ext_img"
+			],
+			[
+				"node",
+				"nodes"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"selectors_",
+				"selectors_list"
+			],
+			[
+				"stri",
+				"stripos"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fade",
+				"fadeIn\t.fadeIn()"
+			],
+			[
+				"sho",
+				"show\tEvent"
+			],
+			[
+				"update_",
+				"update_option"
+			],
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"fu",
+				"furl"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bott",
+				"bottom_border"
+			],
+			[
+				"fr",
+				"fr_html"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"gz",
+				"gzdeflate"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"par",
+				"parse_url"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"f",
+				"furl"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"li",
+				"links"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"va",
+				"val\t.val()"
+			],
+			[
+				"this",
+				"this\tObject"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"pa",
+				"path_parts"
+			],
+			[
+				"die",
+				"disabled\tEvent"
+			],
+			[
+				"dis",
+				"disabled\tEvent"
+			],
+			[
+				"коммен",
+				"комментариев"
+			],
+			[
+				"comment_",
+				"comment_block"
+			],
+			[
+				"комме",
+				"комментариев"
+			],
+			[
+				"is_us",
+				"is_user_logged_in"
+			],
+			[
+				"ra",
+				"randomday"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"co",
+				"comments"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"htmlen",
+				"html_entity_decode"
+			],
+			[
+				"jso",
+				"json"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"do_",
+				"do_shortcode"
+			],
+			[
+				"transie",
+				"delete_transient"
+			],
+			[
+				"js",
+				"jsonp"
+			],
+			[
+				"htmls",
+				"htmlspecialchars"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"tra",
+				"track"
+			],
+			[
+				"sear",
+				"searchAudioID"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"le",
+				"length\tString"
+			],
+			[
+				"track",
+				"track_list"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"headers_",
+				"headers_sent"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"clea",
+				"clear"
+			],
+			[
+				"exi",
+				"exists"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"nav",
+				"navbar-nav\t main.css"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"wo",
+				"word-wrap"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"la",
+				"layout_mode"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"m",
+				"meta"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aftparser.php",
+			"settings":
+			{
+				"buffer_size": 3857,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "toolbar.php",
+			"settings":
+			{
+				"buffer_size": 1667,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.php",
+			"settings":
+			{
+				"buffer_size": 7011,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 32153,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class/parser.php",
+			"settings":
+			{
+				"buffer_size": 56378,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Александр Штокманн/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons/blender-for-unrealengine/bfu_basics.py",
+			"settings":
+			{
+				"buffer_size": 3367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Александр Штокманн/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons/blender-for-unrealengine/bfu_exportasset.py",
+			"settings":
+			{
+				"buffer_size": 17809,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "async/rss_parser_proc.php",
+			"settings":
+			{
+				"buffer_size": 10214,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/index_page.php",
+			"settings":
+			{
+				"buffer_size": 3629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/site_parser_page.php",
+			"settings":
+			{
+				"buffer_size": 31527,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/req_parser.php",
+			"settings":
+			{
+				"buffer_size": 20273,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "postprocessing.php",
+			"settings":
+			{
+				"buffer_size": 11255,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "async/site_parser_proc.php",
+			"settings":
+			{
+				"buffer_size": 14455,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class/publisher.php",
+			"settings":
+			{
+				"buffer_size": 13923,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 7854,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/postprocessing.js",
+			"settings":
+			{
+				"buffer_size": 1458,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/async",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/class",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/js",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/pages"
+	],
+	"file_history":
+	[
+		"/C/Users/Александр Штокманн/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons/Blender-For-UnrealEngine-Addons-master/blender-for-unrealengine - 2.8/bfu_basics.py",
+		"/C/Users/Александр Штокманн/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/Александр Штокманн/Desktop/GD/SkyrimArmor/Daz/Male/DazMorphs/FBMEdward8R.dsf",
+		"/C/Users/Александр Штокманн/AppData/Roaming/Blender Foundation/Blender/2.79/scripts/addons/RetopoFlow/rfmode/rftool_polypen.py",
+		"/C/Users/Александр Штокманн/AppData/Roaming/Blender Foundation/Blender/2.79/scripts/addons/io_bcry_exporter/export.py",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/pages/site_parser_page.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/async/site_parser_proc.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/class/parser.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/class/publisher.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/async/rss_parser_proc.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/js/main.js",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/main.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/pages/req_parser.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/pages/index_page.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/css/admin.css",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/class/simple_html_dom.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/pages/rss_parser_page.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/class/parsersListTable.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/class/pAjax.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/pages/settings_page.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/functions.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/aftparser.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/class/htmLawed.php",
+		"/D/devTools/OpenServer_php7.1/domains/theme-dev.sto/wp-content/plugins/aftparser/postprocessing.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/js/postprocessing.js",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/class/parser.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/composerui.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/class/readability/Readability.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/aftparser.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/functions.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/ajax.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/pages/rss_parser_page.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/pages/eparser_page.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/pages/index_page.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/class/parsersListTable.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/class/readability.inc.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/class/Readability.inc.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/pages/site_parser_page.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/class/pAjax.php",
+		"/C/Users/Адам Дженсен/Desktop/123.html",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/postprocessing.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/css/admin.css",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/js/main.js",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/pages/settings_page.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/aftparser/async/rss_parser_proc.php",
+		"/C/Users/Адам Дженсен/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/D/Web/OpenServer/domains/mstat/www/ui/lpages.phtml",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/comment-parser/js/editor.js",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/red_october/functions.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/red_october/readme/code-snippets-extended.sublime-workspace",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/red_october/doc/keys.txt",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/red_october/cache.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/red_october/class/Google/Cache/File.php",
+		"/D/Web/OpenServer/domains/theme-dev.sto/www/wp-content/plugins/red_october/cache-pre.php",
+		"/C/Users/Адам Дженсен/Desktop/asd",
+		"/C/Users/Адам Дженсен/Desktop/vks.txt",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/extensions/ws.class.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/proc/index.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/track-list.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/settings/auth-settings.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/js/main.js",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/functions.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/header.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/subnav.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/proc/ajax.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/config/routes.ini",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/sidebar.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/layout.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/player.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/lib/base.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/css/player.css",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/login.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/settings/settings-nav.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/extensions/vk.class.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/includes/vk.class.inc",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/share-buttons.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/author.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/css/ripples.css",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/js/jplayer/skin/blue.monday/css/jplayer.blue.monday.min.css",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/ui/layout.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/css/material.css",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/settings/view-settings.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/music.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/config/variables.ini",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/home.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/init.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/ui/header.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/ui/subnav.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/settings/speed-settings.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/ui/auth_settings.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/ui/login.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/view-settings.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/ui/settings-nav.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www/install.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/ui/music.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/ui/home.phtml",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/proc/index.php",
+		"/D/Web/OpenServer/domains/music-gen.sto/www-old/config/routes.ini",
+		"/D/Web/OpenServer/domains/f3base.sto/www/lib/base.php",
+		"/D/Web/OpenServer/domains/f3base.sto/www/install.php",
+		"/D/Web/OpenServer/domains/f3base.sto/www/setup.old.sql",
+		"/D/Web/OpenServer/domains/f3base.sto/www/setup.sql",
+		"/D/Web/OpenServer/domains/f3base.sto/www/ui/category.phtml",
+		"/D/Web/OpenServer/domains/f3base.sto/www/ui/home.phtml",
+		"/D/Web/OpenServer/domains/f3base.sto/www/index.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/js/tinymfc-shortcodes.js",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/styles.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/content-audio.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/content-gallery.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/content-link.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/content-quote.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/content.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/post-header-image.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/inc/demo_data/data.xml",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/inc/enqueue-scripts.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/content-page.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/inc/shortcodes.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/js/main.js",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/library/codestar-option-framework/config/shortcode.config.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/page/page-template-posts-grid.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/inc/ajax.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/index.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/index-grid.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/woocommerce/notices/notice.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/woocommerce/notices/success.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/woocommerce/notices/error.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/comments.php",
+		"/D/Web/OpenServer/domains/wp-mdbrick-test.sto/www/wp-content/themes/mdbrick/library/hybrid-framework/hybrid.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"modif",
+			"modifi",
+			"find_xml_links",
+			"proces_",
+			"селекто",
+			"process_images(",
+			"select",
+			"max_dist=10",
+			"toc",
+			"ru_str2url",
+			"toc",
+			"error",
+			"process_images",
+			"post_author",
+			"author",
+			"date",
+			"node",
+			"noded",
+			"Заголовок по селектору ",
+			"селектор",
+			"iframe",
+			"date",
+			" \n",
+			"accor",
+			"sortable",
+			"add_backlink",
+			"ссылку на",
+			"добавить",
+			"xml",
+			"process_images",
+			"maxipp",
+			"process_images",
+			"источник",
+			"process_ima",
+			"date",
+			"process_images",
+			"process_image",
+			"match_rss",
+			"_prepareUrl",
+			"process_i",
+			"process",
+			" $this->_prepareUrl(",
+			"fix_image_url",
+			"var_",
+			"die",
+			"var_dump",
+			"process_image",
+			"http://",
+			"rel_to_abs",
+			"http://",
+			"process_ima",
+			"download",
+			"process_images",
+			"_prepareUrl",
+			"process_ima",
+			"_prepareUrl",
+			"_prepareU",
+			"_p",
+			"_",
+			"$blog_enc",
+			"if($blog_enc != $src_enc)",
+			"auto_de",
+			"clear_tags_from_trash",
+			"clear",
+			"var",
+			"_prepareUrl",
+			"process_im",
+			"mb_ucfirst",
+			"set_t",
+			"clear_tags_from_trash",
+			"select",
+			"strip_ta",
+			"clear_tags_from_trash",
+			"uniqe",
+			"ap_escapeHtml",
+			"ajax_nonce",
+			"process_i",
+			"process_images",
+			"strip_tags",
+			"process_images",
+			"click",
+			"collect_links",
+			"aft_lparsed_id",
+			"parse_req",
+			"process_image",
+			"aft_yemail",
+			"_prepareUrl",
+			"process_ima",
+			"downloa",
+			"process_ima",
+			"echo",
+			"process_i",
+			"download",
+			"process_images",
+			"process_ima",
+			"dow",
+			"process_images",
+			"process_im",
+			"download",
+			"process_im",
+			"mode",
+			"Селектор заголовка не указан!",
+			"process_image",
+			"state",
+			"or = $('#aft_macro').data('editor').getSession();",
+			"mb_ucfirst",
+			"ro_show_html",
+			"show_html",
+			".show_html",
+			"process_",
+			"white_popup",
+			"die",
+			"download",
+			"process_images",
+			"ld not open input file: compos",
+			"remove_a_href",
+			"parse_tit",
+			"\n\t\t$post = strip_tags($post, \n\t\t\t\t\"<p><i><b><a><strong><span><q><blockquote><iframe><u><i><ul><ol><li><section><br><h1><h2><h3><h4><h5><img><hr>\");",
+			"process_images",
+			"\"\"",
+			"proce",
+			"process_images",
+			"yemail",
+			"ykey",
+			"use-borders",
+			"cdata",
+			"addslashes",
+			"фввыдфыруы"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"new_fragment_title",
+			"new APublisher",
+			"form-group",
+			"_custom_post_options"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aftparser.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3857,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "toolbar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1667,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7011,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								4368,
+								4368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32153,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								8697,
+								8697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3064.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "class/parser.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56378,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								53510,
+								53510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1235.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Александр Штокманн/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons/blender-for-unrealengine/bfu_basics.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Александр Штокманн/AppData/Roaming/Blender Foundation/Blender/2.80/scripts/addons/blender-for-unrealengine/bfu_exportasset.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4250.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "async/rss_parser_proc.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10214,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								1978,
+								1978
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 67.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pages/index_page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3629,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								1777,
+								1779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "pages/site_parser_page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31527,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								2471,
+								2471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "pages/req_parser.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20273,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+									[
+										9459,
+										9459
+									]
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								3952,
+								3952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "postprocessing.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11255,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								8830,
+								8830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "async/site_parser_proc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14455,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								2424,
+								2424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "class/publisher.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								724,
+								724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7854,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								2087,
+								2087
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "js/postprocessing.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1458,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aftparser.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 492.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

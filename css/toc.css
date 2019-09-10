@@ -1,0 +1,63 @@
+/**
+ * Оглавление
+ */
+.toc-wrapper {
+	background: #fefefe;
+	width: 90%;
+	position: relative;
+	border: 1px dotted #ddd;
+	color: #333;
+	margin: 10px 0 20px;
+    padding: 5px 15px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.toc-hm{
+	height: auto !important;
+}
+
+.toc-title{
+	display:inline-block;
+	vertical-align:middle;
+	font-size:1em;
+	cursor: pointer;
+}
+
+.toc-title:hover{
+	color: #117bb8;
+}
+
+.toc a {
+	color: #333;
+	text-decoration: underline;
+}
+
+.toc .toc-h1,
+.toc .toc-h2 {
+	margin-left: 10px
+}
+
+.toc .toc-h3 {
+	margin-left: 15px
+}
+
+.toc .toc-h4 {
+	margin-left: 20px
+}
+
+.toc-active {
+	color: #000;
+	font-weight: bold;
+}
+
+.toc > ul{
+	margin-top:25px;
+	list-style: none;
+	list-style-type: none;
+    padding: 0px !important;
+}
+
+.toc > ul > li{
+	word-wrap: break-word;
+}

@@ -1,0 +1,176 @@
+/** крестик в кружке **/
+#id { background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAuBJREFUeNqMVl9I01EUnrYtiCyFUfQQrPYSrF6MKFLpLZCGQdBTYATJYkRBlD5s4EN/QIrAHiRZEAolBgUhM/JNmtmTRNRTpMECMYLpKqMy6zvr+63TYdffLnzs7vzOvd893z333FvX/XouUEPbBLQA24EI8AkoAFN98WjJb3DQ5/thIAUcdTn0vHn/GD8DIJtw+dQ5IjkA3ODqa21TwEWQvaiFpBMYMrbPnKRAqSKUThbRYHxPgmh4LblOA1n1/wtwU+QAFqqsfivlvABspG0IEoZBdMdzqlcDWgzBDNAM9DoIpC1gsl76zSh7FkSt1SK5pfqi6zFgXs/Yd+XqcZEDeCrR9WTSv8r2ePQtJk2g+4j7Ka0f2KsjaedqpC0BJ6oQhPDTDRyRpOKe/Psej85z3CJNzSBu1yQp5X8OmPVJ99/ABusAIhl3XplSHslmIEGjHKwxh/4/gJ/si0zfHX5jzEZpCUTTJKs7qByeA0UlUaOkOVceUtHI4hrV978yj2RXEU0RE0+qhbcGjbYFRSDn5SwnlyjWAbtU6t4FloEwbaMyjH0t984gB1RSUvVPAfscksjEe4xtiyIpKntZrpIphF67TSnWAyuUaDd9ZD9eAd8Y6SrwQE+s+kUheacMsUrhy6RHIdkTsyc5YD/wEegC5ip7MpJd0hKp/qyQ5JWhTTbUy3UQldQeBbniAH+/yndstK3KMv6QMuXrOWFOydXh2IcQEWAShB1+Hapo5iTbvMM4oJz6TbheW+H50MXTRrGD4wN6Xo9kXBU4CfcesO2/CTJpOYjXgIfAZeCDIRD/+xxfLrCIYtzeJ1I1n5lLqNNRYnQpEQKJfNhccm34lrelPs+M0aX/JZDkJVWtRUCQpJ8m6PIIXDdjkmfE3oyTTPdFShJjFtmb8QwIBv0eEoM8aNfV6hpULVrrjr8EgulaXyvT3CPf1wqa72vF70k0QTSRNKYOq0iXl3Pg94z5I8AAABbc/a1BmkAAAAAASUVORK5CYII='); }
+/** сердечко **/
+#id { background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wgARCAAbABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBwABBP/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAwb/2gAMAwEAAhADEAAAATUASEvUnHOsGOjm0O4OLQKi9byh/wD/xAAbEAACAwEBAQAAAAAAAAAAAAACAwEEBRAAE//aAAgBAQABBQK7ptloar4WvTsiY3FELQlbeLz2EGpR+/piRnMz5YXGIUbef//EAB0RAAEEAgMAAAAAAAAAAAAAAAQAAQIDEiEFESL/2gAIAQMBAT8BgHRgzdIoQfTv5QnISpbCW2RBEr5ZSX//xAAYEQEBAQEBAAAAAAAAAAAAAAACAAERA//aAAgBAgEBPwHVsUpefYnl/8QAIBAAAgEEAwADAAAAAAAAAAAAAQIAAxFBURASMRMzsf/aAAgBAQAGPwIrQPVRncINmbBl2buNWgPb2Mh9B5U7E+Sl9n7LEWMFWsLJgb5DtTUsM8//xAAdEAEAAgIDAQEAAAAAAAAAAAABABEQITFBUWHw/9oACAEBAAE/IbxfrS2PfeJxDQe1gldxQaZ1KrO0pQytVobPMcqDSPUqkO1/dSvmOHUSM//aAAwDAQACAAMAAAAQffQn/8QAHxEBAAECBwEAAAAAAAAAAAAAAQARITFBUWFxgZHh/9oACAEDAQE/EEAKWvm9xik4WrKJaGG3yefDSf/EABkRAAMAAwAAAAAAAAAAAAAAAAABESExQf/aAAgBAgEBPxCvZzZFPUIWI//EACEQAQACAgEDBQAAAAAAAAAAAAEAESFBMRBRcWGB0eHw/9oACAEBAAE/ECKKVBBy5KCWZjA4+YYZc3GKE9EMQyE2oWXTDjRDvdcPjfVTWKi8WDHQxW4z5DUQddGitncjJ0huV3T8ZQ06bzSC/fvAAAOn/9k="); }
+/** мелкая красная стрелочка **/
+#id { background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAgQ29tcHJlc3NlZCBieSBqcGVnLXJlY29tcHJlc3MA/9sAhAADAwMDAwMEBAQEBQUFBQUHBwYGBwcLCAkICQgLEQsMCwsMCxEPEg8ODxIPGxUTExUbHxoZGh8mIiImMC0wPj5UAQMDAwMDAwQEBAQFBQUFBQcHBgYHBwsICQgJCAsRCwwLCwwLEQ8SDw4PEg8bFRMTFRsfGhkaHyYiIiYwLTA+PlT/wgARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcJ/9oACAEBAAAAANGG06cf/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/aAAgBAhAAAAA3/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/aAAgBAxAAAAB3/8QAIxAAAQQBBAEFAAAAAAAAAAAAAwECBAUHABESQQYTITFCYv/aAAgBAQABPwDJ2RIGMqmrs58Yhokq2DCM4a7OC0g3v9Tb7bcPjVba19tXxp0CQOTFkDa8Jhu5Ne13esuY2TJ9FV0zpyQwAuAy5L0buRwhiIxzWfteeqKhqPGaeHUVMVkWFDHwCJvXaqq9uVfdV7XX/8QAHhEAAAQHAAAAAAAAAAAAAAAAAAECEgMEERMUQVH/2gAIAQIBAT8AQczkxHEVlqW9rsf/xAAfEQABAwMFAAAAAAAAAAAAAAABAgNCAAQFERMUFXH/2gAIAQMBAT8AukYIYCwUyt3sy87yEw2oE6y8r//Z"); }
+
+/** стили сайта https://progipertoniyu.ru/preparaty/enap-n.html **/
+
+/* синяя цитата с картинкой аптечки */
+.post__entry blockquote {
+    margin: 23px 0;
+    padding: 15px 15px 15px 155px;
+    border-radius: 5px;
+    background: #E9FBFF url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAABLCAYAAAAbFSs/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABBFJREFUeNrsnD1oFEEUx9/el/ErxsRvBA9txKQRbGIXRCvBQtRKrCyChSgSG7VQEWIjgoUIVqJgKdgoFiJYGMRCEkULE8RCkBCMJmiS2/X/srMQz93bmzMzN9l7f/g3t7u3u7+ZnZk3+2a9geFRsqhO+BB8DN4Jl2Dfwnk95Qn4OXwfHoLn/vePB7vLqfsULALeDl+HD1PztBneBR+BL8F34VnTJ81ZurnV8LkmA16o9fBFeL+q4ZmA3APvI7e0BT4Ir8oK5K1wB7mnsnrKjMpmmxwk/D63GB1QSqdXTKhQgY3mwhZkPwHyT/gh/FFB8GrcdLAAWlAFMQkWF94K+ADcq3FdS7Ymx+kHfEcNp0ypTYHubdZN5qj5Wmb4//OquaBWhcyP+HILhVhqBcheAx3iYna4fgPXteQgjyfcKP/2zfC5J1TbH6dp+LvNjo/nEvrgjXAlodQLqmBmY6CV1Da/qhYFKpSNGyevgc/Co4YK3FcdX1/C9t3wVQU6H1MBKzFhd0HtOz/0PD8y5sVs54J9MdhdfjMPbmB4lA84Dl+Au1QbFqTUfF/zqSjUGMnMkPlJomIMxKgSROf3ahRUdWXzFlSguMrIBTMJ34RvFVS4e6OJEVkzOyXP0OiGO/N29ZSMc+3rdzTkzYK4APsZ8h5hYXbeJudIQJJl+Tmy82ailRVILW6RuQuBLBLIAln079yFi+LQ9CvVng+OQtuyq5XGZcj8tuSKAl0LMg9BeSKHX++fgtcK5PrE0F7DjzWO+Uxh0opzkF1tkwOKn26llBoduHgzLnd8ec39uUnxBLIM4UQCWSCLBLJATo3kTB/TspA5SGrTPIaHbyslrCb6ReHr8lwKLJ8ae2MzRWHCSlqN9lWB5LIEmXMbnsFPKEwKKdbx2I9onoMzka5RmDsSpADm6ynDRylcy5IJyO/hy/Arg+fgLKB7Gvu3qWN4gY7RpEdbbfIXeMyxppKbrncUJqJnouPjdrZE7snKNdmE7OLkjZW8EwlGJOITyCKBLJAFsgE18s7OhubIwqSSLcicZN7uGGAeUq4j8+sIrYXV3fBJ+Cklr9+o1if4rcY5olWn9SxI/w1voHCtTGYWsPMqpzPwCfWIpkHmR/gBfFrjHJso/GjJtjqbrnYyv1DTKuRInZoFo3svDLpLRhf1d0iTmsdUGjim5Ydw+QaOkeQWGSeLBLJAFglkgSyQmyrdiZsZcjSDyNXlDDxG3qFC5Kk6xsycMMMfDukQyHpBBX/LjdeM8Gv7UkKgEX1fiLfv1QzbWx5y1JT1KEubLBLIAlkgiwSyQBb9BbkoGMwyZsjTwsE85EfCwaiGGPJtCj97IFp8jcGDHFZ/oDAfgvMi+MMcnFFTET4NK/pY6ksKv4E69EeAAQAzOa9GvIDWmAAAAABJRU5ErkJggg==') no-repeat 28px 50%;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .16);
+}
+
+.post__entry blockquote p {
+    margin: 0;
+    padding: 10px 0;
+}
+
+/* синие цифры с точками */
+.post__entry ol {
+    counter-reset: li;
+    margin: 0 0 18px;
+    list-style: none;
+}
+
+.post__entry ol > li {
+    position: relative;
+    margin: 0 0 18px;
+    padding: 0 0 0 40px;
+	font-size: 15px;
+}
+
+.post__entry ol > li:before {
+    content: counter(li);
+    counter-increment: li;
+    position: absolute;
+    top: -4px;
+    left: 0;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: #76D4DF;
+    font-weight: bold;
+    line-height: 24px;
+    color: #FFF;
+    text-align: center;
+}
+
+/* крестики */
+.post__entry ul {
+    margin: 0 0 18px;
+}
+
+.post__entry ul > li {
+    position: relative;
+    margin: 0 0 18px;
+    padding: 0 0 0 40px;
+    list-style: none;
+}
+
+.post__entry ul > li:before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAuBJREFUeNqMVl9I01EUnrYtiCyFUfQQrPYSrF6MKFLpLZCGQdBTYATJYkRBlD5s4EN/QIrAHiRZEAolBgUhM/JNmtmTRNRTpMECMYLpKqMy6zvr+63TYdffLnzs7vzOvd893z333FvX/XouUEPbBLQA24EI8AkoAFN98WjJb3DQ5/thIAUcdTn0vHn/GD8DIJtw+dQ5IjkA3ODqa21TwEWQvaiFpBMYMrbPnKRAqSKUThbRYHxPgmh4LblOA1n1/wtwU+QAFqqsfivlvABspG0IEoZBdMdzqlcDWgzBDNAM9DoIpC1gsl76zSh7FkSt1SK5pfqi6zFgXs/Yd+XqcZEDeCrR9WTSv8r2ePQtJk2g+4j7Ka0f2KsjaedqpC0BJ6oQhPDTDRyRpOKe/Psej85z3CJNzSBu1yQp5X8OmPVJ99/ABusAIhl3XplSHslmIEGjHKwxh/4/gJ/si0zfHX5jzEZpCUTTJKs7qByeA0UlUaOkOVceUtHI4hrV978yj2RXEU0RE0+qhbcGjbYFRSDn5SwnlyjWAbtU6t4FloEwbaMyjH0t984gB1RSUvVPAfscksjEe4xtiyIpKntZrpIphF67TSnWAyuUaDd9ZD9eAd8Y6SrwQE+s+kUheacMsUrhy6RHIdkTsyc5YD/wEegC5ip7MpJd0hKp/qyQ5JWhTTbUy3UQldQeBbniAH+/yndstK3KMv6QMuXrOWFOydXh2IcQEWAShB1+Hapo5iTbvMM4oJz6TbheW+H50MXTRrGD4wN6Xo9kXBU4CfcesO2/CTJpOYjXgIfAZeCDIRD/+xxfLrCIYtzeJ1I1n5lLqNNRYnQpEQKJfNhccm34lrelPs+M0aX/JZDkJVWtRUCQpJ8m6PIIXDdjkmfE3oyTTPdFShJjFtmb8QwIBv0eEoM8aNfV6hpULVrrjr8EgulaXyvT3CPf1wqa72vF70k0QTSRNKYOq0iXl3Pg94z5I8AAABbc/a1BmkAAAAAASUVORK5CYII=');
+}
+
+.post__entry li ul,
+.post__entry li ol {
+    margin-top: 18px;
+}
+
+
+/** стили сайта http://oprostate.com/prostatit/preparaty/vitaprost-tabletki.html **/
+ul li:before {
+    background: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAgQ29tcHJlc3NlZCBieSBqcGVnLXJlY29tcHJlc3MA/9sAhAADAwMDAwMEBAQEBQUFBQUHBwYGBwcLCAkICQgLEQsMCwsMCxEPEg8ODxIPGxUTExUbHxoZGh8mIiImMC0wPj5UAQMDAwMDAwQEBAQFBQUFBQcHBgYHBwsICQgJCAsRCwwLCwwLEQ8SDw4PEg8bFRMTFRsfGhkaHyYiIiYwLTA+PlT/wgARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcJ/9oACAEBAAAAANGG06cf/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/aAAgBAhAAAAA3/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/aAAgBAxAAAAB3/8QAIxAAAQQBBAEFAAAAAAAAAAAAAwECBAUHABESQQYTITFCYv/aAAgBAQABPwDJ2RIGMqmrs58Yhokq2DCM4a7OC0g3v9Tb7bcPjVba19tXxp0CQOTFkDa8Jhu5Ne13esuY2TJ9FV0zpyQwAuAy5L0buRwhiIxzWfteeqKhqPGaeHUVMVkWFDHwCJvXaqq9uVfdV7XX/8QAHhEAAAQHAAAAAAAAAAAAAAAAAAECEgMEERMUQVH/2gAIAQIBAT8AQczkxHEVlqW9rsf/xAAfEQABAwMFAAAAAAAAAAAAAAABAgNCAAQFERMUFXH/2gAIAQMBAT8AukYIYCwUyt3sy87yEw2oE6y8r//Z") no-repeat;
+    content: "";
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 3px;
+    z-index: 10;
+    left: 0;
+}
+
+/* LISTS */
+.main_text ul{list-style:none;padding:0;margin:0 0 30px;}
+.main_text ul .attention, .main_text ol .attention{margin:10px 0;}
+.main_text ul li{padding-left:3rem;position: relative;display:table;font-size:16px;line-height: 20px;margin-bottom: 10px;}
+
+/*  NUMERIC, прост синие буквы */ 
+.main_text ol{list-style:none;padding:0;margin:0 0 20px;counter-reset:item;}
+.main_text ol li{position: relative;padding-left:3rem;display: table;line-height: 20px;margin-bottom:10px;}
+.main_text ol ol li{padding-left:4.3rem;}
+.main_text ol ol ol li{padding-left:6rem;}
+.main_text ol ol ol ol li{padding-left:7rem;}
+
+.main_text ol li:before{content: counter(item)"."; counter-increment:item; font-weight: bold; font-size: 16px; line-height: 20px;padding: 0 3px;position:absolute;left:0;top:1px;}
+.main_text ol ol li:before{content:counters(item, ".") "."; counter-increment: item;}
+
+.main_text table ul li, .main_text table ol li{display: inherit;}
+
+.main_text ol ul, .main_text ol ol , .main_text ul ol, .main_text ul ul {margin: 10px 0 5px;}
+.main_text ol ul li:last-child, .main_text ol ol li:last-child , .main_text ul ol li:last-child, .main_text ul ul li:last-child {margin:0; }
+.main_text ul ol li:before{background-image: none;}
+.main_text ul ol li:before{width:auto;height: auto;}
+.main_text ol ul li:before{content:""; counter-increment:none;} 
+.main_text ol ul ol li:before{content: counter(item)"."; counter-increment:item;}
+.main_text ol ul ol li {padding-left: 2.3rem;}
+
+
+
+/** стили сайта http://gipertonija.ru/info/gipertonicheskaya-bolezn-klassifikaciya.html **/
+blockquote,.question{
+background-color:#fafafa;
+background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAA/CAYAAAC7KnXJAAACsElEQVR4Ae2aA48lURSE+60ZrW3btm3btm2MrX871dF4dk9133o6nXzxpGq+17nsqGbdwwXgN/gVkN9gS0Q++NsTgTv+BhfioFWgRcDmBDLuCfo9j4OWiWQsTiDjmqDfPaWMZS7DZbgMl+EyXEaRynAZLuO2y2jjpVLGkhyX8UUpY0OOy/iolLHXZbSx22W4DJfhMlyGy0jMPpfRxqYcl/HZT8fbeBEHrRXJWJ5AxmNBvztx0BhwEOz7T3aAy+Jd63SwysAGUGU9z2DLTSRkzKLCeIFvVDLmEjKmiGXczVUZtWCkWMZpY8cHKhllYKhYxnFjx0ts0Bxj0FeQEcs4Yex4ig2aZ57DxU/8zxk7nmWDNhuDLmZBxm1jxwOqV3BXFmS8lXxME4+8kqU4L2IwqDB2XMoEZcAvQ0hDFqbV6cQ6aDITNCYPZpI9xo7lYKBi8LyehfHio7HjMzbopuorP+G+6SgT1A+UGoPGiWWcJ2TMZ4KWG0M+iUUMB/XGjpVgEBP22hh0QizjFvFWXGOCZufyth1ZC0ALwVzFCP1eKGIIKCdE/GDC9hJB24QyXpJvxXZqu04c5gwVibhCiqgBg6zjRC0RdFok4qLiUisOWg+aiZB6MDywhEFtZ5wUv0C//wkaB24kCDoaWMR48Lktj2LR/yxjz4GGBCGVYEDgDVhTQhH3/7XEvqi8NSMkTAVvUuhXBgb1FrQpJRG31Ed4BDP/FbQvhZBvYGBAGddT6LiVuF+gxonREf8obuGPKObqZjA14h+FjHPm/T9BOS9CJuOA4jDkHRhjCtLKqAKrFCdDp9tWbzkp4wnxQ5llPAdzqBCNjK9gY+gzw8dgoVqAQcYnsBn0DbGgqQRvwB52gAwg41Gnjj/BObAg7aBV4CDYChYw5xACGVvBSbAeTAqV0wrbz/FCe3ovNgAAAABJRU5ErkJggg==);
+background-position:38px 39px;
+background-repeat:no-repeat;
+font-style:italic;
+border-radius:5px;
+min-height:110px;
+box-sizing:border-box;
+margin:20px 0;
+padding:38px 40px 38px 135px;
+}
+.question{
+background-image:url(images/answer.png);
+background-position:30px 26px;
+padding:26px 40px 26px 105px;
+}
+blockquote p,.question p{
+padding:0!important;
+}
+blockquote p:last-child,.question p:last-child{
+margin-bottom:0;
+}
+
+.single ul li{
+/** сердечко **/
+list-style:none;
+background:url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wgARCAAbABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBwABBP/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAwb/2gAMAwEAAhADEAAAATUASEvUnHOsGOjm0O4OLQKi9byh/wD/xAAbEAACAwEBAQAAAAAAAAAAAAACAwEEBRAAE//aAAgBAQABBQK7ptloar4WvTsiY3FELQlbeLz2EGpR+/piRnMz5YXGIUbef//EAB0RAAEEAgMAAAAAAAAAAAAAAAQAAQIDEiEFESL/2gAIAQMBAT8BgHRgzdIoQfTv5QnISpbCW2RBEr5ZSX//xAAYEQEBAQEBAAAAAAAAAAAAAAACAAERA//aAAgBAgEBPwHVsUpefYnl/8QAIBAAAgEEAwADAAAAAAAAAAAAAQIAAxFBURASMRMzsf/aAAgBAQAGPwIrQPVRncINmbBl2buNWgPb2Mh9B5U7E+Sl9n7LEWMFWsLJgb5DtTUsM8//xAAdEAEAAgIDAQEAAAAAAAAAAAABABEQITFBUWHw/9oACAEBAAE/IbxfrS2PfeJxDQe1gldxQaZ1KrO0pQytVobPMcqDSPUqkO1/dSvmOHUSM//aAAwDAQACAAMAAAAQffQn/8QAHxEBAAECBwEAAAAAAAAAAAAAAQARITFBUWFxgZHh/9oACAEDAQE/EEAKWvm9xik4WrKJaGG3yefDSf/EABkRAAMAAwAAAAAAAAAAAAAAAAABESExQf/aAAgBAgEBPxCvZzZFPUIWI//EACEQAQACAgEDBQAAAAAAAAAAAAEAESFBMRBRcWGB0eHw/9oACAEBAAE/ECKKVBBy5KCWZjA4+YYZc3GKE9EMQyE2oWXTDjRDvdcPjfVTWKi8WDHQxW4z5DUQddGitncjJ0huV3T8ZQ06bzSC/fvAAAOn/9k=") no-repeat;
+padding:4px 0 23px 42px;
+}
+/** красный кружок и цифра внутри **/
+.single ol{
+counter-reset:li;
+list-style:none outside none;
+margin:20px 0;
+}
+.single ol li{
+position:relative;
+padding:0 0 25px 40px;
+}
+.single ol li:before{
+width:24px;
+height:24px;
+content:counter(li);
+counter-increment:li;
+position:absolute;
+left:0;
+top:-5px;
+text-align:center;
+color:#ee3147;
+font-weight:700;
+border:2px solid #ee3147;
+line-height:24px;
+border-radius:50%;
+}

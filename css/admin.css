@@ -1,0 +1,347 @@
+/*******************************************************/
+
+#main_i{
+	width: 70px;
+	float: left;
+	/*position: absolute;*/
+	/*box-shadow: 0px 0px 20px 0px rgba(63, 183, 255, 1);*/
+	margin: 5px;
+}
+
+.parse_list{
+	display:block;
+}
+
+.aft_attention{
+	border-left: 4px solid #2EA2CC;
+	background: none repeat scroll 0% 0% #FFF;
+	box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+	padding: 10px 12px;
+	margin-top: 5px;
+}
+
+.aft_info{
+	border-left: 4px solid #3C7388;
+	background: none repeat scroll 0% 0% #FFF;
+	box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+	padding: 10px 12px;
+	margin-top: 5px;
+}
+
+.aft_attention:hover,
+.aft_info:hover{
+	border-left: 4px solid #18C5F9;
+}
+
+.aft_textarea, .ace_editor{
+	width: 100%;
+	height: 300px;
+}
+
+.aft_macro_info{
+	background-color:#FFDB70; 
+	padding:2px 5px;
+}
+
+.aft_macro_info:hover{
+	background-color:#FFDBA0;
+}
+
+.borders-eval{
+	width: 100%;
+}
+
+td.top_al{
+	margin-bottom: 9px;
+	padding: 15px 10px;
+	line-height: 1.3;
+	vertical-align: top;
+}
+/*********** jQueryUI theme customization ************/
+.ui-accordion .ui-accordion-header{
+	padding: .2em .3em .2em 1.7em;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+	color: #222;
+}
+
+/** Выпадающее окно плагина magnific-popup **/
+.white_popup{
+	position: relative;
+	background: #FFF;
+    padding: 10px 10px 20px 10px !important;
+	width: auto;
+	max-width: 60%;
+	margin: 20px auto;
+}
+
+.mf-title{
+    box-shadow: 0px 1px 0px 0px #7D7D7D;
+}
+
+/** Анимаци загрусзки magnific-popup'а, взято с codepen, свою писать времени нет. Потом надо будет на кружек поменять красивый... **/
+.mfp-preloader {
+	width: 30px;
+	height: 30px;
+	background-color: #FFF;
+	opacity: 0.65;
+	margin: 0 auto;
+	-webkit-animation: rotateplane 1.2s infinite ease-in-out;
+	animation: rotateplane 1.2s infinite ease-in-out;
+}
+
+@-webkit-keyframes rotateplane {
+	0% { -webkit-transform: perspective(120px) }
+	50% { -webkit-transform: perspective(120px) rotateY(180deg) }
+	100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+}
+
+@keyframes rotateplane {
+	0% { transform: perspective(120px) rotateX(0deg) rotateY(0deg) }
+	50% { transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg) }
+	100% { transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg) }
+}
+
+/*********** анимация ожидания. Сгенерирована через http://cssload.net/ ***********/
+
+.aft_loader{
+	display:none;
+	position: fixed;
+	top:0px;
+	left:0px;
+	background-color: rgba(0,0,0,0.8);
+	width:100%;
+	height:100%;
+	z-index: 1000;
+}
+
+tr, td {
+    vertical-align: top !important;
+}
+
+#a_info_wrap{
+	position: absolute;
+	display:block;
+	top: 10%;
+	width: 100%;
+	max-height: 70%;
+}
+
+#loader-close{
+	position: absolute;
+	z-index: 1001;
+	top: 10%;
+	right: 2%;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: Tahoma ! important;
+	font-weight: bold;
+	color: #fff;
+	padding: 5px;
+	box-shadow: 0px 0px 20px 0px rgba(50, 161, 179, 1);
+}
+
+#loader-close:hover{
+	color: #25f;
+}
+
+#ajax_loader_info{
+	display: block;
+	position: relative;
+	margin: 0px auto;
+	width: 60%;
+	padding: 10px 5px;
+	background-color: #FFE;
+	height: auto;
+	overflow: auto;
+	z-index: 1000;
+	text-align:center;
+	max-height: 500px;
+	box-shadow: 0px 0px 20px 0px rgba(50, 161, 179, 1);
+}
+
+#ajax_loader_info::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: rgba(200,200,200,0.8);
+}
+
+#ajax_loader_info::-webkit-scrollbar
+{
+	width: 7px;
+	height: 7px;
+	background-color:  rgba(200,200,200,0.3);
+}
+
+#ajax_loader_info::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+	height: 140px;
+}
+#ajax_loader_info::-webkit-scrollbar-thumb:hover
+{
+	background-color: rgba(0,0,0,0.9);
+	height: 140px;
+}
+
+#ajax_loader_info:hover{
+	background-color: #FFF;
+}
+
+#info_table{
+    box-shadow: 0px 0px 1px 0px rgb(47, 47, 47);
+    margin: 2px auto;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+#squaresWaveG {
+	position: absolute;
+	bottom:1px;
+	display:block;
+	width: 100%;
+	height: 30px;
+	z-index: 1000;
+}
+
+#squaresWaveG #wrapSQW{
+	position: relative;
+	display:block;
+	margin: 0px auto;
+	width: 232px;
+}
+
+.squaresWaveG{
+	position:absolute;
+	top:0;
+	background-color:#0C2BF0;
+	width:29px;
+	height:29px;
+	-moz-animation-name:bounce_squaresWaveG;
+	-moz-animation-duration:2.7s;
+	-moz-animation-iteration-count:infinite;
+	-moz-animation-direction:linear;
+	-webkit-animation-name:bounce_squaresWaveG;
+	-webkit-animation-duration:2.7s;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-direction:linear;
+	-ms-animation-name:bounce_squaresWaveG;
+	-ms-animation-duration:2.7s;
+	-ms-animation-iteration-count:infinite;
+	-ms-animation-direction:linear;
+	-o-animation-name:bounce_squaresWaveG;
+	-o-animation-duration:2.7s;
+	-o-animation-iteration-count:infinite;
+	-o-animation-direction:linear;
+	animation-name:bounce_squaresWaveG;
+	animation-duration:2.7s;
+	animation-iteration-count:infinite;
+	animation-direction:linear;
+}
+
+#squaresWaveG_1{
+	left:0;
+	-moz-animation-delay:1.08s;
+	-webkit-animation-delay:1.08s;
+	-ms-animation-delay:1.08s;
+	-o-animation-delay:1.08s;
+	animation-delay:1.08s;
+}
+
+#squaresWaveG_2{
+	left:30px;
+	-moz-animation-delay:1.35s;
+	-webkit-animation-delay:1.35s;
+	-ms-animation-delay:1.35s;
+	-o-animation-delay:1.35s;
+	animation-delay:1.35s;
+}
+
+#squaresWaveG_3{
+	left:60px;
+	-moz-animation-delay:1.62s;
+	-webkit-animation-delay:1.62s;
+	-ms-animation-delay:1.62s;
+	-o-animation-delay:1.62s;
+	animation-delay:1.62s;
+}
+
+#squaresWaveG_4{
+	left:90px;
+	-moz-animation-delay:1.89s;
+	-webkit-animation-delay:1.89s;
+	-ms-animation-delay:1.89s;
+	-o-animation-delay:1.89s;
+	animation-delay:1.89s;
+}
+
+#squaresWaveG_5{
+	left:120px;
+	-moz-animation-delay:2.16s;
+	-webkit-animation-delay:2.16s;
+	-ms-animation-delay:2.16s;
+	-o-animation-delay:2.16s;
+	animation-delay:2.16s;
+}
+
+#squaresWaveG_6{
+	left:150px;
+	-moz-animation-delay:2.43s;
+	-webkit-animation-delay:2.43s;
+	-ms-animation-delay:2.43s;
+	-o-animation-delay:2.43s;
+	animation-delay:2.43s;
+}
+
+#squaresWaveG_7{
+	left:180px;
+	-moz-animation-delay:2.7s;
+	-webkit-animation-delay:2.7s;
+	-ms-animation-delay:2.7s;
+	-o-animation-delay:2.7s;
+	animation-delay:2.7s;
+}
+
+#squaresWaveG_8{
+	left:210px;
+	-moz-animation-delay:2.97s;
+	-webkit-animation-delay:2.97s;
+	-ms-animation-delay:2.97s;
+	-o-animation-delay:2.97s;
+	animation-delay:2.97s;
+}
+
+@-moz-keyframes bounce_squaresWaveG{
+	0%{background-color:#0C2BF0;}
+	100%{background-color:#000000;}
+}
+
+@-webkit-keyframes bounce_squaresWaveG{
+	0%{background-color:#0C2BF0;}
+	100%{background-color:#000000;}
+}
+
+@-ms-keyframes bounce_squaresWaveG{
+	0%{background-color:#0C2BF0;}
+	100%{background-color:#000000;}
+}
+
+@-o-keyframes bounce_squaresWaveG{
+	0%{background-color:#0C2BF0;}
+	100%{background-color:#000000;}
+}
+
+@keyframes bounce_squaresWaveG{
+	0%{background-color:#0C2BF0;}
+	100%{background-color:#000000;}
+}
+
+pre.crontasks{
+	width: 700px;
+    overflow-x: scroll;
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #C5C5C5;
+    padding: 10px 6px;
+}

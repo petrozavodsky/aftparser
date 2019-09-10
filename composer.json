@@ -1,0 +1,11 @@
+{	
+	"minimum-stability":"dev",
+	"config" : {
+        "vendor-dir" : "readability",
+		"disable-tls" : true,
+		"secure-http": false
+    },
+	"require": {
+		"andreskrey/readability.php": "2.1.0"
+	}
+}
